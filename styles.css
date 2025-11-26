@@ -110,9 +110,7 @@ body {
     filter: brightness(1.1);
 }
 
-.header.scrolled .logo-image {
-    max-height: 55px; /* Más pequeño cuando hay scroll */
-}
+
 
 
 .logo-mark {
